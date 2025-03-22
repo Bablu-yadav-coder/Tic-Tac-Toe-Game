@@ -28,7 +28,7 @@ boxs.forEach((btn, idx) => {
             turnX = false;
         }else {
             btn.innerHTML = "O"
-             btn.style.color = "yellow"
+             btn.style.color = "purple"
             turnX = true;
         }
         count++;
